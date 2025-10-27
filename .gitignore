@@ -1,0 +1,17 @@
+# Abaikan folder virtual environment
+venv/
+
+# Abaikan file cache Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Abaikan file konfigurasi atau environment
+.env
+
+# Abaikan file dari macOS atau sistem
+.DS_Store
+Thumbs.db
+
+# Abaikan file sementara VS Code
+.vscode/
